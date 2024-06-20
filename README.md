@@ -1,4 +1,4 @@
-# GNU Radio HackRF
+# GNU Radio HackRF FM Receiver
 Some GNU Radio projects I create for testing purposes on HackRF One.
 
 ### GNU Radio cquam
